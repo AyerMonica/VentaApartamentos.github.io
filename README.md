@@ -21,20 +21,3 @@ Proyecto desarrollado para practicar estructura semántica, diseño responsive y
 HTML5
 CSS3
 Diseño responsive con media queries
-
-📁 Estructura del proyecto
-venta-apartamentos/
-│
-├── index.html
-├── nosotros.html
-├── anuncios.html
-├── blog.html
-├── contacto.html
-│
-├── css/
-│   └── styles.css
-│
-├── img/
-│   └── (imágenes del proyecto)
-│
-└── README.md
