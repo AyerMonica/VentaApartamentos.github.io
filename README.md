@@ -1,25 +1,40 @@
-# VentaApartamentos.github.io
+🏡 Venta de Apartamentos
 
-Inmobiliaria Mónica
+Sitio web inmobiliario desarrollado como proyecto de práctica en maquetación web.
+Incluye listado de propiedades, sección informativa, blog y formulario de contacto.
 
-Landing page de una inmobiliaria ficticia, desarrollada con HTML y CSS.
-El proyecto muestra propiedades en venta, información sobre la empresa, artículos de blog y un formulario de contacto.
-
-Demo en vivo:
+🌐 Demo en vivo
 https://lovely-cuchufli-12062c.netlify.app/
 
+📋 Descripción
+Landing page para una empresa inmobiliaria enfocada en la venta de apartamentos.
 
-Página principal con:
-* Listado de propiedades destacadas
-* Sección “Más sobre nosotros”
-* Blog con artículos
-* Formulario de contacto
-* Diseño responsive
+El sitio presenta:
+Propiedades destacadas con precio e información
+Sección “Más sobre nosotros”
+Blog con artículos relacionados al sector inmobiliario
+Formulario de contacto
+Diseño responsive adaptable a distintos dispositivos
+Proyecto desarrollado para practicar estructura semántica, diseño responsive y organización de estilos en CSS.
 
-Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 HTML5
 CSS3
-JavaScript
+Diseño responsive con media queries
 
-Objetivo del proyecto:
-Este proyecto fue creado como práctica de maquetación web, estructura semántica y diseño responsive con HTML y CSS.
+📁 Estructura del proyecto
+venta-apartamentos/
+│
+├── index.html
+├── nosotros.html
+├── anuncios.html
+├── blog.html
+├── contacto.html
+│
+├── css/
+│   └── styles.css
+│
+├── img/
+│   └── (imágenes del proyecto)
+│
+└── README.md
